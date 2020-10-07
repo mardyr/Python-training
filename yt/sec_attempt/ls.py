@@ -34,3 +34,13 @@ nums.sort()
 print(nums)
 nums.sort(reverse=True)
 print(nums)
+
+sum1 = 0
+total_time = ('Lewis Hamilton', 78.89, 79.89, 78.99, 80.89, 80.84)
+print(total_time[0])
+sum1 = sum(total_time[1:])
+
+print(sum1)
+t = (1, 2, 3, 4, )
+t+= (5, 6, )
+print(t)
