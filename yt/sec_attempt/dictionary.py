@@ -29,3 +29,5 @@ del myDict["Lewis Hamilton"]
 
 for k,v in myDict.items():
     print(f'k to {k} i  val to {v}')
+
+

@@ -4,12 +4,17 @@ class B(object):
         self.x = x
         print("Jestem konstruktorem klasy B wywołanym \
  przy tworzeniu obiektu klasy" + str(self.__class__))
+    def show(self):
+        print("klasa B")
 class C(B):
+    def show(self):
+        print("Klasa C")
     pass
 
 b = B(5)
 c = C(2)
 d = C()
+print(c.show(), b.show())
 print(b.klasowa)
 b.klasowa = 2 # zmieniam parametr dla obiektu
 B.klasowa = 3 # zmieniam parametr dla całej klasy
