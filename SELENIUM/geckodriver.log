@@ -458,3 +458,518 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1603490423718	geckodriver	INFO	Listening on 127.0.0.1:57180
+1603490426710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofile5RDzFK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603490432906	Marionette	INFO	Listening on port 57188
+1603490433130	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603490663848	Marionette	INFO	Stopped listening on port 57188
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603490668240	geckodriver	INFO	Listening on 127.0.0.1:57298
+1603490671243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofiley8Mh4x"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603490678023	Marionette	INFO	Listening on port 57320
+1603490678379	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1603492732719	Marionette	INFO	Stopped listening on port 57320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileWsDQLJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603491495651	Marionette	INFO	Listening on port 57691
+1603491496239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603491587947	Marionette	INFO	Stopped listening on port 57691603491589928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofilelOawGE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603491595480	Marionette	INFO	Listening on port 57785
+1603491595790	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:989:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:989:5)", "resource://devtools/shared/protocol/Front.js", 341))
+1603495366863	Marionette	INFO	Stopped listening on port 57785
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+48data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1603492071733	Marionette	INFO	Stopped listening on port 58059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603492292994	geckodriver	INFO	Listening on 127.0.0.1:58364
+1603492296001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofilekbkY82"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603492301819	Marionette	INFO	Listening on port 58372
+1603492301889	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.pl.OC575ma-DNA.O/ck=xjs.s.QsOl9ASo5Pc.L.F4.O/am=AAAAAAAAwAAAAABLwNwNAID_IADggkscAAAAAEiAlgSNBdKAhIQACAAAQDgLJQAAEACA/d=1/exm=cdos,cr,csi,d,dpf,hsm,jsa,pfd/ed=1/dg=2/ct=zgms/rs=ACT90oGTfT_6xJcpvNKbjO2G0Mzy_fNRyA/m=aa,abd,async,cvn5cb,dvl,foot,lu,m,mUpTid,mu,sb_wiz,sf,xz7cCd?xjs=s1, line 342: Script terminated by timeout at:
+@https://www.google.com/xjs/_/js/k=xjs.s.pl.OC575ma-DNA.O/ck=xjs.s.QsOl9ASo5Pc.L.F4.O/am=AAAAAAAAwAAAAABLwNwNAID_IADggkscAAAAAEiAlgSNBdKAhIQACAAAQDgLJQAAEACA/d=1/exm=cdos,cr,csi,d,dpf,hsm,jsa,pfd/ed=1/dg=2/ct=zgms/rs=ACT90oGTfT_6xJcpvNKbjO2G0Mzy_fNRyA/m=aa,abd,async,cvn5cb,dvl,foot,lu,m,mUpTid,mu,sb_wiz,sf,xz7cCd?xjs=s1:342:83
+
+1603492711821	Marionette	INFO	Stopped listening on port 58372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofilespa9C8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603492718840	Marionette	INFO	Listening on port 63273
+1603492719111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603493013339	Marionette	INFO	Stopped listening on port 63273
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileElY3mx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603492745772	Marionette	INFO	Listening on port 63346
+1603492745962	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.onnetwork.tv/js/player84.js?s=1603437948, line 470: unreachable code after return statement
+JavaScript warning: https://video.onnetwork.tv/frame84.php?mid=MCwxNng5LDQsMCwxNjY0LDc2NTUsMCwwLDEsMCwwLDAsMiwwLDQsMSwwLDEsMCwwLDAsMCwwLDAsMCw1LDAsLTE7LTE7MDs2MiwwLDcwLDA=&preview=0&iid=0&e=1&id=ffEXSfa3f13caee918c6d768074897ecc48221&t_page=nieruchomosci_312179988_solec_zdroj_prawie_cala_miejscowosc_moze_byc_uznana_za_zabytek_wyrok_wsa_html&wtop=https%3A%2F%2Fwww.rp.pl%2FNieruchomosci%2F312179988-Solec-Zdroj-prawie-cala-miejscowosc-moze-byc-uznana-za-zabytek---wyrok--WSA.html, line 2301: unreachable code after return statement
+JavaScript warning: https://cdn.onnetwork.tv/js/player84.js?s=1603437948, line 470: unreachable code after return statement
+JavaScript warning: https://api.traq.li/public/sdk/v04/sdk.js, line 1: Script terminated by timeout at:
+i/r.requestPromise/<@https://api.traq.li/public/sdk/v04/sdk.js:1:36015
+
+JavaScript error: https://ced.sascdn.com/tag/1660/smart.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1755997791 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://cdn.onnetwork.tv/js/player84.js?s=1603437948, line 470: unreachable code after return statement
+JavaScript warning: https://video.onnetwork.tv/frame84.php?mid=MCwxNng5LDQsMCwxNjY0LDc2NTUsMCwwLDEsMCwwLDAsMiwwLDQsMSwwLDEsMCwwLDAsMCwwLDAsMCw1LDAsLTE7LTE7MDs2MiwwLDcwLDA=&preview=0&iid=0&e=1&id=ffEXS73f2043a9c4a1f17c92eb153c8fe45431&t_page=nieruchomosci_312179988_solec_zdroj_prawie_cala_miejscowosc_moze_byc_uznana_za_zabytek_wyrok_wsa_html&wtop=https%3A%2F%2Fwww.rp.pl%2FNieruchomosci%2F312179988-Solec-Zdroj-prawie-cala-miejscowosc-moze-byc-uznana-za-zabytek---wyrok--WSA.html, line 2301: unreachable code after return statement
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://cdn.onnetwork.tv/js/player84.js?s=1603437948, line 470: unreachable code after return statement
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:857:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:632:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:111:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:416:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 111, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 111))
+1603492908985	Marionette	INFO	Stopped listening on port 63346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603492910324	geckodriver	INFO	Listening on 127.0.0.1:63694
+1603492913364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileldVzDN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603492919220	Marionette	INFO	Listening on port 63703
+1603492919753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603492938444	Marionette	INFO	Stopped listening on port 63703
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603492941964	geckodriver	INFO	Listening on 127.0.0.1:63760
+1603492945024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofilefZgG3F"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603492950643	Marionette	INFO	Listening on port 63768
+1603492950927	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603493010125	Marionette	INFO	Stopped listening on port 63768
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603493123634	geckodriver	INFO	Listening on 127.0.0.1:64009
+1603493126686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileLowCkL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603493134053	Marionette	INFO	Listening on port 64031
+1603493134495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603493168915	Marionette	INFO	Stopped listening on port 64031
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileRai45l"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603493174581	Marionette	INFO	Listening on port 64118
+1603493174787	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603493239108	Marionette	INFO	Stopped listening on port 64118
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603493307224	geckodriver	INFO	Listening on 127.0.0.1:64379
+1603493310274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileIFDbux"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603493316215	Marionette	INFO	Listening on port 64402
+1603493316655	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603493908995	geckodriver	INFO	Listening on 127.0.0.1:64999
+1603493912041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileo1MG1O"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603493919824	Marionette	INFO	Listening on port 65010
+1603493920222	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+[Parent 2872, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2274: TypeError: subject.QueryInterface is not a function
+1603494098676	geckodriver	INFO	Listening on 127.0.0.1:65216
+1603494101703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofilehPuiHB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603494107918	Marionette	INFO	Listening on port 65224
+1603494108119	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603494244928	geckodriver	INFO	Listening on 127.0.0.1:65443
+1603494247966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileSl9wRj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603494254261	Marionette	INFO	Listening on port 65451
+1603494254392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: http://solanna.com.pl/, line 22: Script terminated by timeout at:
+c@http://solanna.com.pl/:22:314
+l@http://solanna.com.pl/:22:430
+@http://solanna.com.pl/:22:1192
+@http://solanna.com.pl/:22:1870
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603495219494	geckodriver	INFO	Listening on 127.0.0.1:49394
+1603495222544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileY20evu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603495231934	Marionette	INFO	Listening on port 49402
+1603495232503	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603495300196	Marionette	INFO	Stopped listening on port 49402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603495361572	geckodriver	INFO	Listening on 127.0.0.1:49630
+1603495364592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileJ5t91s"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603495374890	Marionette	INFO	Listening on port 49638
+1603495375475	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603495443422	Marionette	INFO	Stopped listening on port 49638
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603495543347	geckodriver	INFO	Listening on 127.0.0.1:49902
+1603495546417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofileVI4L0H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603495555976	Marionette	INFO	Listening on port 49911
+1603495556100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603495610189	Marionette	INFO	Stopped listening on port 49911
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\\Temp\\rust_mozprofileQgYrqx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603495607576	Marionette	INFO	Listening on port 50012
+1603495607709	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603495778347	Marionette	INFO	Stopped listening on port 50012
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603500062585	geckodriver	INFO	Listening on 127.0.0.1:50711
+1603500065651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofiles4dEoN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603500073435	Marionette	INFO	Listening on port 50720
+1603500074152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603500102751	Marionette	INFO	Stopped listening on port 50720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603500103915	geckodriver	INFO	Listening on 127.0.0.1:50790
+1603500106940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofile9dRCxU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603500112497	Marionette	INFO	Listening on port 50798
+1603500112875	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1973160395, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1973160395, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1973160395, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1973160395 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.rp.pl/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1973160395 line 1 > eval, line 1: unreachable code after return statement
+1603500238743	geckodriver	INFO	Listening on 127.0.0.1:51000
+1603500241785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Majster\\AppData\\Local\\Temp\\rust_mozprofilejJDWEB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1603500248168	Marionette	INFO	Listening on port 51008
+1603500248495	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js, line 5: WebGL context was lost.
+JavaScript warning: https://panorama.nocowanie.pl/48/66048/66048data/66048.js line 10 > eval, line 1: WebGL context was lost.
+1603500305556	Marionette	INFO	Stopped listening on port 51008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
